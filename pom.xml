@@ -18,7 +18,7 @@
     </properties>
 	
     <scm>
-	<connection>scm:git:ssh://git@github.com:GD-NSLT-Hudson/ReleaseTest.git</connection>
+	<connection>scm:git:ssh://git@github.com/GD-NSLT-Hudson/ReleaseTest.git</connection>
     </scm>
     <distributionManagement>
         <repository>
